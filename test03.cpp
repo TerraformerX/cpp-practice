@@ -17,8 +17,8 @@
  ******************************************************************************/
 
 #include <iostream>
-using namespace std;
 #include <iomanip>
+using namespace std;
 
 int main(int argc, char *argv[])
 {
